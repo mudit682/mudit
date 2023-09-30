@@ -2,6 +2,8 @@ import java.util.*;
 
 public class conditions {
     public static void main(String args[]) {
+system.out.print("hello world");
+
         scanner sc = new scanner(system.in);
         int age = sc.nextInt();
 
